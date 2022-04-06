@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "packages": {
+    "@hodgef/js-library-boilerplate-basic": {
+      "signature": "9a3242db21c95f552729e36247e8242e",
+      "file": true
+    },
+    "@inner-source/loblaw-snowplow-helper": {
+      "signature": "4a86ea933b02c5f419ff1541ce8e07c8",
+      "file": true
+    }
+  }
+}
